@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "SpringMicroserviceGateway",
+    "packageName": "com.micro_service",
+    "packageFolder": "com/micro_service",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "Nzg4NGZjYmU3OGE2MmE5YThlMmExM2IxMjMyOGI3MGQwYjYwMDI5ODJkYTYyNzM5YTU3MjgyMWRiMTY3YTQ2ODMyZjQ5M2E4Zjg2OWU5YTkxMDUwYWFiNDM0NTIxMDA2ZjJmMGE0Nzk0YWM4MjhmNzQ5ZTQ5NGY4ZDc3ODkxZDY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aseduma",
+  "repository-name": "SpringMicroserviceGateway"
+}
